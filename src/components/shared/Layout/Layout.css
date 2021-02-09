@@ -24,3 +24,19 @@
         align-items: center;
     }
 }
+.paragraph {
+  margin: auto;
+  width: 65%;
+  padding: 10px;
+
+}
+footer {
+  flex: 1;
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  z-index: 1;
+  bottom: 0;
+  margin-right: 50%;
+  padding: auto;
+}

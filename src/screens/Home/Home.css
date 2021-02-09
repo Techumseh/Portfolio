@@ -3,3 +3,10 @@
         padding: 100px 40px;
     }
 }
+.avatar {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5%;
+  width: 35%;
+}

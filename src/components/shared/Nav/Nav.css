@@ -14,14 +14,14 @@ nav {
     display: flex;
     padding: 20px 0;
     margin-left: -2px;
-    margin-right: -2px;
+    margin-right: -20px;
     margin-top: -2px;
-    box-shadow: 1px 1px 1px .3px #CECECE;
+    box-shadow: 1px 1px 1px .3px #b6b4b4;
     width: 100%;
 }
 
 .logo {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Alata', sans-serif;
     text-align: center;
     font-weight: bold;
     font-size: 28px;
@@ -37,9 +37,9 @@ nav {
 
 .links {
     flex: 2;
-    max-width: 30vw;
-    align-items: center;
-    font-size: 12px;
+    max-width: 75vw;
+    align-items: left;
+    font-size: 18px;
     display: flex;
 }
 
