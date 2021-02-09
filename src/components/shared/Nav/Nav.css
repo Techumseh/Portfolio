@@ -25,7 +25,7 @@ nav {
     text-align: center;
     font-weight: bold;
     font-size: 28px;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
     flex: 1;
     max-width: 30vw;
     transition: 250ms all;
