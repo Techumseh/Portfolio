@@ -1,10 +1,13 @@
 import React, { memo } from 'react';
+import Layout from '../../components/shared/Layout/Layout'
 
 const About = memo(() => {
   return (
-    <div>
-      
+    <Layout>
+    <div className="home">
+     
     </div>
+  </Layout>
   );
 });
 

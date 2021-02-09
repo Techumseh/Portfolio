@@ -1,10 +1,12 @@
 import React from 'react';
-
+import Layout from '../../components/shared/Layout/Layout'
 const Portfolio = () => {
   return (
-    <div>
-      
-    </div>
+    <Layout>
+      <div className="home">
+        {/* <ProductCards /> */}
+      </div>
+    </Layout>
   );
 };
 
