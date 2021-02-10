@@ -8,7 +8,7 @@ const Home = () => {
     <Layout>
       <div className="home">
       <img src="https://i.imgur.com/uTjXz8V.jpg" width="100%" height="25%"/>
-        <p className="centered">I'm Jeff Bond and I am an Atlanta based Software Developer/IT Project Manager. I have 20 years of success in Tech including full stack software engineering, project manangement, and DevOps.
+        <p className="centered">I'm Jeff Bond and I am an Atlanta based Software Developer/IT Project Manager. I have 20 years of success in Tech including full stacksoftware engineering, project manangement, and DevOps.
        </p>
       </div>
     </Layout>
