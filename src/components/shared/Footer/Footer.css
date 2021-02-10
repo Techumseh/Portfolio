@@ -7,6 +7,7 @@ footer {
   background-color: white;
   z-index: 5;
   bottom: 0;
- text-align: center;
-  padding: auto;
+  text-align: center;
+  padding: 40px;
+
 }

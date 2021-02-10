@@ -1,9 +1,9 @@
 @media (max-width: 500px) {
-    .home {
-        padding: 100px 40px;
+    
       
     }
-}
+
+    
 .avatar {
   display:block;
   margin-left: auto;
@@ -26,5 +26,8 @@
   text-shadow: 1px 1px #0c0000;
 }
 .background {
-  background-image: url=("https://i.imgur.com/Br17b4U.jpg")''
+  background-image: url=("https://i.imgur.com/uTjXz8V.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
