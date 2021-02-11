@@ -10,11 +10,11 @@ const Contact = () => {
         <div className="paragraph"><center>
          
         <h1>Contact Me - Lets work together!</h1> 
-        <a href="mailto:bondconsulting@gmail.com">bondconsulting@gmail.com</a><br /><br />
-        <a href="https://www.linkedin.com/in/jeffbond/">linkedIn/in/JeffBond</a><br /><br />
-        <a href="Github.com/Techumseh">Github.com/Techumseh</a><br /><br />
-        <a href="medium.com/@jeffreybond"> Medium.com/@jeffreybond</a><br /><br />
-        <a href="https://calendly.com/jeffrey-bond"> Calendly.com/jeffrey-bond</a>
+        <a href="mailto:bondconsulting@gmail.com" >bondconsulting@gmail.com</a><br /><br />
+        <a href="https://www.linkedin.com/in/jeffbond/" target="_blank">linkedIn/in/JeffBond</a><br /><br />
+        <a href="https://Github.com/Techumseh" target="_blank" >Github.com/Techumseh</a><br /><br />
+        <a href="https://medium.com/@jeffreybond" target="_blank"> Medium.com/@jeffreybond</a><br /><br />
+        <a href="https://calendly.com/jeffrey-bond"target="_blank"> Calendly.com/jeffrey-bond</a>
 
         <h4>Or send a message using the form below</h4>
       <form method="POST">
