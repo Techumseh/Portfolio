@@ -5,19 +5,19 @@ import Layout from '../../components/shared/Layout/Layout'
 
 const Contact = () => {
   return (
-    <div>// 
-      <Layout>
-        <div className="paragraph">
+   <Layout>
+      <div className="home">
+        <div>
          
-        <h1>Contact Me - Lets work together!</h1> 
+        <h2>Contact Me - Lets work together!</h2> 
         <a href="mailto:bondconsulting@gmail.com" >bondconsulting@gmail.com</a><br /><br />
         <a href="https://www.linkedin.com/in/jeffbond/" target="_blank">linkedIn/in/JeffBond</a><br /><br />
         <a href="https://Github.com/Techumseh" target="_blank" >Github.com/Techumseh</a><br /><br />
         <a href="https://medium.com/@jeffrey-bond" target="_blank"> Medium.com/@jeffrey-bond</a><br /><br />
-        <a href="https://calendly.com/jeffrey-bond"target="_blank"> Calendly.com/jeffrey-bond</a><br />
+        <a href="https://calendly.com/jeffrey-bond"target="_blank"> Calendly.com/jeffrey-bond</a>
 
         <h4>Or send a message using the form below</h4>
-      <form method="POST">
+      <form >
         <label htmlFor="name">Name:</label>
           <input type="text" name="name" /><br />
 
@@ -25,14 +25,15 @@ const Contact = () => {
       <input type="email" name="email" /><br />
 
     <label htmlFor="message">Message</label><br />
-      <textarea name="message" rows="6" columns="9"></textarea><br />
+      <textarea name="message" rows="9" columns="12"></textarea><br />
 
     <input type="submit" />
           </form>
        
         </div>
-      </Layout>
-    </div>
+      </div>
+    </Layout>
+    
   );
 };
 
