@@ -5,7 +5,7 @@ import Layout from '../../components/shared/Layout/Layout'
 
 const Contact = () => {
   return (
-   <Layout>
+   <Layout><center>
       <div className="home">
         <div>
          
@@ -15,23 +15,8 @@ const Contact = () => {
         <a href="https://Github.com/Techumseh" target="_blank" >Github.com/Techumseh</a><br /><br />
         <a href="https://medium.com/@jeffrey-bond" target="_blank"> Medium.com/@jeffrey-bond</a><br /><br />
         <a href="https://calendly.com/jeffrey-bond"target="_blank"> Calendly.com/jeffrey-bond</a>
-
-        <h4>Or send a message using the form below</h4>
-      <form >
-        <label htmlFor="name">Name:</label>
-          <input type="text" name="name" /><br />
-
-    <label htmlFor="email">Email: </label>
-      <input type="email" name="email" /><br />
-
-    <label htmlFor="message">Message</label><br />
-      <textarea name="message" rows="9" columns="12"></textarea><br />
-
-    <input type="submit" />
-          </form>
-       
-        </div>
-      </div>
+       </div>
+      </div></center> 
     </Layout>
     
   );
