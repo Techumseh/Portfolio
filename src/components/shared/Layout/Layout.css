@@ -1,12 +1,31 @@
 .layout {
-    height: 100vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
+   
+}
+
+.img {
+    height:60vmax;
+    background-size: contain;
 }
 
 .layout-children {
     flex: 2;
     padding: 100px;
+    
+}
+.centered {
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: bold;
+  position: absolute;
+  letter-spacing: 1px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:white;
+  text-shadow: 1px 1px #0c0000;
 }
 
 @media (max-width: 500px) {
@@ -16,7 +35,7 @@
         flex-direction: column;
     }
     .layout-children {
-        width: 80vw;
+        width: 100%;
         padding: 0px;
         margin: 0px;
         display: flex;
@@ -30,7 +49,7 @@
   padding: 10px;
 
 }
-footer {
+.footer {
   flex: 1;
   position: fixed;
   width: 100%;
