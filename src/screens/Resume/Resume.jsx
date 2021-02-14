@@ -45,14 +45,19 @@ Supported several End users with various network/software issues. Maintained des
               </a>
               <a className="descripton"><br/><br />
               <h4>Education and Credentials</h4>
-Georgia Institute of Technology<br />
+Georgia Institute of Technology 2021<br />
 Professional Education Certificate in Project Management<br /><br />
                 
-Morehouse College	1986-1990<br />
+General Assembly 2021<br />
+Software Engineering Bootcamp Certificate of Completion <br /><br />
+                
+Fortis College February 19, 2016<br />
+Certificate of Completion DevOps Implementation Boot Camp<br /><br />
+
+ Morehouse College	1986-1990<br />
 Finance Major /Computer Science Minor <br /><br />
 
-Fortis College February 19, 2016<br />
-Certificate of Completion DevOps Implementation Boot Camp 
+
 
               </a><br /><br />
               
