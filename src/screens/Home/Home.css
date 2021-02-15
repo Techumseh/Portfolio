@@ -14,8 +14,7 @@
 
 
 .centered {
-  font-family: Roboto;
-  font-size: 32px;
+  font-size: auto;
   font-weight: bold;
   position: absolute;
   letter-spacing: 1px;

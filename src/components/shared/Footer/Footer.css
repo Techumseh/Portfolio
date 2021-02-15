@@ -2,7 +2,7 @@
 footer {
   display: block;
   flex: 1;
-  position: fixed;
+  position: center;
   width: 100%;
   background-color: white;
   z-index: 5;
