@@ -2,12 +2,14 @@
 .footer {
   display: block;
   flex: 1;
-  position: left;
+  position: center;
   width: 100%;
   background-color: white;
   z-index: 5;
   bottom: 0;
-  text-align: center;
+  text-align: match-parent;
   padding: 40px;
+  
+  
 
 }
