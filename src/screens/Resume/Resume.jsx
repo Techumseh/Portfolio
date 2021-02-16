@@ -9,7 +9,7 @@ const Resume = () => {
                 
                 <div className="detail">
             <div className="name">Jeff Bond Resume</div>
-            <a href="https://drive.google.com/file/d/12WgRVX7O7n75F9MfmMwhTEaW_ohZ4B0y/view?usp=sharing" target="_blank">Download</a>
+            <a href="https://drive.google.com/file/d/12WgRVX7O7n75F9MfmMwhTEaW_ohZ4B0y/view?usp=sharing" target="_blank">Download pdf</a>
             <div className="description"><h2>Experience</h2></div>
             <div>
               <h4>General Assembly Full-time</h4>
