@@ -14,7 +14,7 @@ const Portfolio = () => {
                     <div className="name">Jeff Bond Professional Portfolio</div>
             <div className="description">A portfolio I created for myself using React</div>
             <div>
-              <a className="description" href="https://github.com/Techumseh/Portfolio">GitHub Repo</a>
+              <a className="description" href="https://github.com/Techumseh/Portfolio" target="_blank">GitHub Repo</a>
             </div>
                 </div>
         </div>
@@ -25,7 +25,7 @@ const Portfolio = () => {
                 <div className="name">HipHopasaurus</div>
             <div className="description">A search engine for musicians and musical artists created in HTML,Javascript using the audioDb api</div>
             <div>
-              <a className="description" href="https://github.com/Techumseh/Hiphopasaurus">GitHub Repo</a>
+              <a className="description" href="https://github.com/Techumseh/Hiphopasaurus" target="_blank">GitHub Repo</a><a className="description" href="http://hiphopasaurus.techcellent.dx.am" target="_blank">Live Site</a>
             </div>
                 </div>
         </div>
@@ -37,7 +37,7 @@ const Portfolio = () => {
                     <div className="name">Rhyme-Line</div>
             <div className="description">This is an desktop first  full CRUD web application that creates a playlist of music artists from search. Using the search engine returns information about them including artistName, albumImage, artistAlbum, albumSong, albumYear, artistTwitter, artistFacebook. Developed in React using a custom API developed in Airtable. </div>
             <div>
-            <a className="description" href="https://github.com/Techumseh/Rhyme-line">GitHub Repo</a>
+            <a className="description" href="https://github.com/Techumseh/Rhyme-line" target="_blank">GitHub Repo</a><a className="description" href="https://rhyme-line.netlify.app/" target="_blank">Live Site</a>
             </div>
                 </div>
         </div>
@@ -48,7 +48,7 @@ const Portfolio = () => {
                     <div className="name">Pre:vue</div>
             <div className="description">This is afull CRUD web application that provides a list of businesses  and return information about them including artistName, albumImage, artistAlbum, albumSong, albumYear, artistTwitter, artistFacebook. Developed in React using a custom API developed in Airtable. Planning on eventually styling and making responsive </div>
             <div>
-            <a className="description" href="https://github.com/Techumseh/Prevue">GitHub Repo</a>
+            <a className="description" href="https://github.com/Techumseh/Prevue" target="_blank">GitHub Repo</a><a className="description" href="https://pre-vue.netlify.app" target="_blank">Live Site</a>
             </div>
                 </div>
             </div>

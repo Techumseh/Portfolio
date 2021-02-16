@@ -7,7 +7,8 @@ const Contact = () => {
       <div>
         <div className="description">
         <img src="https://i.imgur.com/BGKCGtj.jpg"  width="96%"/><center>
-        <h3>Contact Me - Lets work together!</h3> 
+            <h3>Contact Me</h3> 
+            <h4>Let’s make something awesome together! -Drop me a line, and let's talk about your project.</h4>
         <a href="mailto:bondconsulting@gmail.com" >bondconsulting@gmail.com</a><br /><br />
         <a href="https://www.linkedin.com/in/jeffbond/" target="_blank">linkedIn/in/JeffBond</a><br /><br />
         <a href="https://Github.com/Techumseh" target="_blank" >Github.com/Techumseh</a><br /><br />
