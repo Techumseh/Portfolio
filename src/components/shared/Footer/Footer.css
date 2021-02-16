@@ -1,8 +1,8 @@
 
-footer {
+.footer {
   display: block;
   flex: 1;
-  position: center;
+  position: left;
   width: 100%;
   background-color: white;
   z-index: 5;

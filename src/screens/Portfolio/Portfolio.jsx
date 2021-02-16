@@ -4,9 +4,7 @@ import Layout from '../../components/shared/Layout/Layout'
 import { getPortfolio } from '../../services/products'
 import { useParams, Link } from 'react-router-dom'
 
-const Portfolio = (props) => {
-
-
+const Portfolio = () => {
     return (
       <Layout>
         <div className="home"/>
@@ -48,7 +46,7 @@ const Portfolio = (props) => {
                 <img className="portfolio-detail-image" src="https://i.imgur.com/ApadR7z.png" width="200px" />
                 <div className="detail">
                     <div className="name">Pre:vue</div>
-            <div className="description">This is afull CRUD web application that provides a list of businesses  and return information about them including artistName, albumImage, artistAlbum, albumSong, albumYear, artistTwitter, artistFacebook. Developed in React using a custom API developed in Airtable. </div>
+            <div className="description">This is afull CRUD web application that provides a list of businesses  and return information about them including artistName, albumImage, artistAlbum, albumSong, albumYear, artistTwitter, artistFacebook. Developed in React using a custom API developed in Airtable. Planning on eventually styling and making responsive </div>
             <div>
             <a className="description" href="https://github.com/Techumseh/Prevue">GitHub Repo</a>
             </div>

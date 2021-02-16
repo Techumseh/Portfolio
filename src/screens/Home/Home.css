@@ -18,15 +18,25 @@
   font-weight: bold;
   position: absolute;
   letter-spacing: 1px;
-  top: 50%;
-  left: 50%;
+ 
   transform: translate(-50%, -50%);
   color:white;
   text-shadow: 1px 1px #0c0000;
 }
 .background {
-  background-image: url=("https://i.imgur.com/uTjXz8V.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+	
+}
+
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  .background {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
 }

@@ -2,7 +2,7 @@ import React, { memo } from 'react';
 import Layout from '../../components/shared/Layout/Layout'
 
 
-const About = memo(() => {
+const About = () => {
   return (
     <Layout>
     <div className="home">
@@ -14,6 +14,6 @@ const About = memo(() => {
     </div>
   </Layout>
   );
-});
+};
 
 export default About;
