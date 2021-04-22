@@ -12,7 +12,7 @@ const Contact = () => {
         <a href="mailto:bondconsulting@gmail.com" >bondconsulting@gmail.com</a><br /><br />
         <a href="https://www.linkedin.com/in/jeffbond/" target="_blank">linkedIn/in/jeffbond</a><br /><br />
         <a href="https://Github.com/Techumseh" target="_blank" >Github.com/Techumseh</a><br /><br />
-        <a href="https://jeffrey-bond.medium.com" target="_blank"> Medium.com/@jJeffrey-bond</a><br /><br />
+        <a href="https://jeffrey-bond.medium.com" target="_blank"> Medium.com/@Jeffrey-bond</a><br /><br />
         <a href="https://calendly.com/jeffrey-bond"target="_blank"> Calendly.com/jeffrey-bond</a><br />
           </center>
         </div>
