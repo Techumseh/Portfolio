@@ -58,7 +58,7 @@ Software Engineering Bootcamp Certificate of Completion <br /><br />
 Fortis College February 19, 2016<br />
 Certificate of Completion DevOps Implementation Boot Camp<br /><br />
 
- Morehouse College	1986-1990<br />
+Morehouse College	1986-1990<br />
 Finance Major /Computer Science Minor <br /><br />
 
 
