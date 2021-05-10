@@ -51,7 +51,9 @@ const Portfolio = () => {
             <a className="description" href="https://github.com/Techumseh/Prevue" target="_blank">GitHub Repo</a><a className="description" href="https://pre-vue.netlify.app" target="_blank">Live Site</a>
             </div>
                 </div>
-            </div>
+        </div>
+        
+
         </Layout>
     )
 }

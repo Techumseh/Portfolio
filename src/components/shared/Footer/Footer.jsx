@@ -4,7 +4,7 @@ import React from 'react'
 const Footer = () =>
   <div className="footer">
   <footer >
-    <a href="https://www.linkedin.com/in/jeffbond/" target=" "> linkedIn</a>
+    <a href="https://www.linkedin.com/in/jeffbond/" target=" "> LinkedIn</a>
     <a href="https://github.com/Techumseh" target=" "> GitHub </a>
     <a href="https://jeffrey-bond.medium.com" target=" "> Medium </a>
     <a href="https://calendly.com/jeffrey-bond" target=" "> Calendly </a> 
