@@ -46,7 +46,7 @@ Supported several End users with various network/software issues. Maintained des
               <a className="descripton"><br/><br />
               <h4>Education and Credentials</h4>
 CertiProf 2021<br />
-Lead Cybersecurity Professional Certificate - LCSPC
+Lead Cybersecurity Professional Certificate - LCSPC<br /><br />
 SCRUM Foundations Professional Certification - SFPC<br /><br />
   
 Georgia Institute of Technology 2021<br />
